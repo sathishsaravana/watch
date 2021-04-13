@@ -217,6 +217,7 @@ body {
 }
 .technical-box:hover i {
   color: rgb(8, 53, 71);
+  border: 1px solid rgb(8, 53, 71);
 }
 .about-us {
   background-color: whitesmoke;
